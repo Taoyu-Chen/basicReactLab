@@ -5,27 +5,17 @@ import CourseModulesEmbeddedVars from "../components/exercises/02_embeddedVariab
 import CourseModulesWithProps from "../components/exercises/03_props";
 import CourseModulesCollections from "../components/exercises/04_iteration";
 
-const name = "HDip Computer Science";
+const course = "Software System Parcise";
 const modules = [
   {
-    name: "DevOps",
-    noLectures: 1,
-    noPracticals: 2
+    name: "Enterprise Systems Architecture",
+    noLectures: 48,
+    noPracticals: 12
   },
   {
-    name: "Enterprise Web Dev",
-    noLectures: 2,
-    noPracticals: 3
-  },
-  {
-    name: "Programming",
-    noLectures: 2,
-    noPracticals: 2
-  },
-  {
-    name: "Computer Systems",
-    noLectures: 2,
-    noPracticals: 3
+    name: "Business Analytics",
+    noLectures: 24,
+    noPracticals: 36
   }
 ];
 
