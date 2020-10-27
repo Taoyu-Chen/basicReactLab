@@ -5,7 +5,7 @@ import CourseModulesEmbeddedVars from "../components/exercises/02_embeddedVariab
 import CourseModulesWithProps from "../components/exercises/03_props";
 import CourseModulesCollections from "../components/exercises/04_iteration";
 
-const course = "Software System Parcise";
+const name = "Software System Parcise - Modules table";
 const modules = [
   {
     name: "Enterprise Systems Architecture",
